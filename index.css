@@ -16,7 +16,7 @@ nav {
   height: 80px;
   width: 100%;
 }
-li a.logo {
+label.logo {
   color: white;
   font-size: 35px;
   line-height: 80px;
@@ -55,10 +55,9 @@ a:hover {
 }
 #check {
   display: none;
-  
 }
 @media (max-width: 952px) {
-  li a.logo {
+  label.logo {
     font-size: 30px;
     padding-left: 20px;
   }
