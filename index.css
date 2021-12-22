@@ -9,6 +9,7 @@
 }
 body {
   font-family: "Roboto";
+  outline: none;
 }
 nav {
   background: #171c24;
