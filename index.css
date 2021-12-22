@@ -51,9 +51,11 @@ a:hover {
   margin-right: 40px;
   cursor: pointer;
   display: none;
+  outline: none;
 }
 #check {
   display: none;
+  outline: none;
 }
 @media (max-width: 952px) {
   label.logo {
